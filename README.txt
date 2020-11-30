@@ -1,6 +1,7 @@
-Social Robotics LAB - Emotion Recognition using KNN algorithms.
+TP Social Robotics LAB - Emotion Recognition using KNN algorithms.
+This is a scholar work with Célestin HERNANDEZ.
 
-In this lab, we've created an KNN algorithms to recognize emotions :
+In this lab, we've created a KNN algorithms to recognize emotions :
 angry, disgust, fear, happy, neutral, sad, suprise.
 in the main.py you have the code and archive is a bunch of picture 48x48 greyscale
 faces from kaggle.
